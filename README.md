@@ -10,7 +10,7 @@
 
 ---
 
-## Core Tech Stack
+## 🛠️ Core Tech Stack
 
 <div style="display: inline_block">
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -27,8 +27,8 @@
 
 ## 📫 Contact
 
-- Email: grcdev@gmail.com  
-- LinkedIn: [linkedin.com/in/grcdev](https://linkedin.com/in/grcdev)  
+- Email: grcsoftdev@gmail.com
+- LinkedIn: [linkedin.com/in/grcsoftdev/](https://linkedin.com/in/grcsoftdev/)  
 - Portfolio: [grcdev.com](https://grcdev.com)
 
 ---
