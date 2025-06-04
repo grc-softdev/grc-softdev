@@ -29,6 +29,6 @@
 
 - Email: grcsoftdev@gmail.com
 - LinkedIn: [linkedin.com/in/grcsoftdev/](https://linkedin.com/in/grcsoftdev/)  
-- Portfolio: [grcdev.com](https://grcdev.com)
+- Portfolio: [www.grcsoftdev.com](https://www.grcsoftdev.com)
 
 ---
