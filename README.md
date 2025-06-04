@@ -1,4 +1,4 @@
-### Hey there 👋, I'm Gleyce, aka Grace - [grcdev][website]. Let's [connect][linkedin].
+### Hey there 👋, I'm Gleyce, aka Grace - [grcdev](https://www.grcsoftdev.com). Let's [connect](https://www.linkedin.com/in/grcsoftdev/).
 
 ---
 
