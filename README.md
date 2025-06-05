@@ -1,4 +1,4 @@
-### Hey there 👋, I'm Gleyce, aka Grace - [grcsoftdev](https://www.grcsoftdev.com).  Let's [connect](https://www.linkedin.com/in/grcsoftdev/)
+### Hey there 👋, I'm Gleyce, aka Grace - [grcsoftdev](https://www.grcsoftdev.com).  Let's [connect](https://www.linkedin.com/in/grcsoftdev/).
 
 ---
 
@@ -28,7 +28,7 @@
 ## 📫 Contact
 
 - Email: grcsoftdev@gmail.com
-- LinkedIn: [linkedin.com/in/grcsoftdev/](https://linkedin.com/in/grcsoftdev/)  
+- LinkedIn: [linkedin.com/in/grcsoftdev/](https://linkedin.com/in/grcsoftdev)  
 - Portfolio: [www.grcsoftdev.com](https://www.grcsoftdev.com)
 
 ---
